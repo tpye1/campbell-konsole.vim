@@ -1,7 +1,7 @@
 hi clear
 syntax reset
 
-let g:colors_name = "campbell"
+let g:colors_name = "campbell-konsole"
 
 set background=dark
 
