@@ -41,6 +41,7 @@ hi Function     guifg=#cccccc
 hi String       guifg=#cccccc
 hi Number       guifg=#cccccc
 hi Identifier   guifg=#cccccc
+hi Special      guifg=#3b78ff
 
 " Optional extras
 hi Directory    guifg=#3b78ff
